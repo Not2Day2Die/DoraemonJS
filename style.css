@@ -1,0 +1,40 @@
+.main-content
+{
+    width: 80%;
+    margin: 0px auto;
+}
+
+.main-content h1
+{
+    font-size: 32px;
+    line-height: 48px;
+    width: 100%;
+    text-align: center;
+}
+
+.main-content h2
+{
+    font-size: 24px;
+    line-height: 40px;
+    width: 100%;
+    text-align: left;
+    color:#239cef;
+}
+
+
+.main-content #example
+{
+    font-size: 16px;
+    line-height: 24px;
+    width: 90%;
+}
+.main-content #example th
+{
+    padding:8px;
+}
+
+
+.main-content #example td {
+
+    padding:8px;
+}
